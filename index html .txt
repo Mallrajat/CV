@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>RAJAT Personal site</title>
+    <!--style>
+
+    body {
+        background-color: powderblue;
+
+    }
+
+    hr {
+        
+        border-style: none;
+        border-top-style: dotted;
+        border-color: black;
+        border-width: 5px;;
+        width: 5%;
+        
+    }
+
+
+    </style-->
+
+</head>
+<body>
+    <table cellspacing = "10">
+        <tr>
+            <td><img src="hrithik.png" alt="hrithik Roshan"></td>
+            <td><h1>Rajat mall</h1>
+            <p><em>Founder and CTO of <strong><a href="https://www.appbrewery.co/">The App Brewery.</a></strong></em></p>
+            <p>i am an ios and Web Developer.</p></td>
+        </tr>
+    </table>
+    <!--img src="hrithik.png" alt="hrithik Roshan">
+    <h1>Rajat mall</h1>
+    <p><em>Founder and CTO of <strong><a href="https://www.appbrewery.co/">The App Brewery.</a></strong></em></p>
+    <p>i am an ios and Web Developer.</p>-->
+    <hr>
+    <h3>Book and Teaching</h3>
+    <ul>
+        <li>The Complete iOs App Development Bootcamp</li>
+        <li>The Complete Web Development</li>
+    </ul>
+    <hr>
+    <!--<h3>My Hobbies</h3>
+    <ol>
+        <li><a href="https://www.youtube.com ">chess</a></li>
+        <li>Reading books</li>
+        <li><a href="https://www.google.com/search?q=listening+song&oq=&aqs=chrome.1.69i59i450l8.228542j0j7&sourceid=chrome&ie=UTF-8">listening Song</a></li>
+    </o>-->
+    <h3>Work Experience</h3>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Dates</th>
+                <th>Works</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2010-2013</td>
+                <td>lead Developer at Tempo App</td>
+            </tr>
+            <tr>
+                <td>2010</td>
+                <td> Researcher at The Institute of Cognitive Neuroscience</td>
+            </tr>
+        </tbody> 
+    </table>
+    <hr>
+    <h3>Skills</h3>
+    <table cellspacing = "10">
+                <tr>
+                    <td>iOS Development</td>
+                    <td>🌟🌟🌟🌟🌟</td>
+                </tr>
+                <tr>
+                    <td>Web Development</td>
+                    <td>🌟🌟🌟🌟🌟</td>
+                </tr>
+                <tr>
+                    <td>Photography</td>
+                    <td>🌟🌟</td>
+                </tr>
+    </table>
+    <hr>
+      <a href="inputs.html"> My Inputs</a>
+      <a href="hobbies.html">My Hobbies</a>
+      <a href="contact.html">Contact Me</a>
+</body>
+</html>
